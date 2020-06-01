@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+My favorite emojies
+* :heart:
+* :+1:
+* :smile:
